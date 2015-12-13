@@ -68,8 +68,9 @@ ExDataCP1Plot3.png
 ExDataCP1Plot4.png
 
 Reviewing the Assignments
+-------------------------
 
-Keep in mind this course is about exploratory graphs, understanding the data, and developing strategies. Here's a good quote from a swirl lesson about exploratory graphs: "They help us find patterns in data and understand its properties. They suggest modeling strategies and help to debug analyses. We DON'T use exploratory graphs to communicate results."
+Keep in mind this course is about exploratory graphs, understanding the data, and developing strategies. Here's a good quote from a swirl lesson about exploratory graphs: *"They help us find patterns in data and understand its properties. They suggest modeling strategies and help to debug analyses. We DON'T use exploratory graphs to communicate results."*
 
 The rubrics should always be interpreted in that context.
 
@@ -78,14 +79,13 @@ As you do your evaluation, please keep an open mind and focus on the positive. T
 To that end, keep the following things in mind:
 
 DO
+* Review the source code.
+* Keep an open mind and focus on the positive.≤/li>
+* When in doubt, err on the side of giving too many points, rather than giving too few.
+* Ask yourself if a plot might answer a question for the person who created it.
+* Remember that not everyone has the same statistical background and knowledge.
 
-Review the source code.
-Keep an open mind and focus on the positive.≤/li>
-When in doubt, err on the side of giving too many points, rather than giving too few.
-Ask yourself if a plot might answer a question for the person who created it.
-Remember that not everyone has the same statistical background and knowledge.
 DON'T:
-
-Deduct just because you disagree with someone's statistical methods.
-Deduct just because you disagree with someone's plotting methods.
-Deduct based on aesthetics.
+* Deduct just because you disagree with someone's statistical methods.
+* Deduct just because you disagree with someone's plotting methods.
+* Deduct based on aesthetics.
